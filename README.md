@@ -1,16 +1,19 @@
 <div id="header" align="center">
-  <img src="Image link here" width="400"/>
+  <img src="https://file.io/N54tBzeVHOxT" width="300"/>
 </div>
 
+I made the image in a rush ok?
+-
 # Hi there 👋
 
-## I'm a...
+## I'm a intermediate student learning software enginering, programming, and studing game development.
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning...
-- 🥅 Goals: 
+- 🔭 I’m currently working on learning C++ becouse pythons tooo easy.
+- 🌱 I’m currently learning game development, C++ and linux.
+- 🥅 Goals: To have C++ sussed by half way through next year (2023), make some actually useful software for once, and make some money of a game.
 
-## Itch.io page -- **https://vturdev.itch.io**
+## Itch.io -- **https://vturdev.itch.io**
+## Discord -- friend me at Vtur#7731
 
 ### Languages and Tools I use:
 
