@@ -3,6 +3,9 @@
 </div>
 
 I made the image in a rush ok?
+
+<img src="https://komarev.com/ghpvc/?username=vturdev&style=flat-square&color=blue" alt="Profile Views"/>
+
 -
 # Hi there 👋
 
